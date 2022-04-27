@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\bin\Debug\Method_Trapecii.exe.config
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\bin\Debug\Method_Trapecii.exe
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\bin\Debug\Method_Trapecii.pdb
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\obj\Debug\Method_Trapecii.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\obj\Debug\Method_Trapecii.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\obj\Debug\Method_Trapecii.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\obj\Debug\Method_Trapecii.exe
+C:\Users\User\Desktop\Method_Trapecii\Method_Trapecii\obj\Debug\Method_Trapecii.pdb
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\bin\Debug\Method_Trapecii.exe.config
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\bin\Debug\Method_Trapecii.exe
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\bin\Debug\Method_Trapecii.pdb
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\obj\Debug\Method_Trapecii.csprojAssemblyReference.cache
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\obj\Debug\Method_Trapecii.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\obj\Debug\Method_Trapecii.exe
+C:\Users\1290743\Desktop\Method_Trapeci\Method_Trapecii\obj\Debug\Method_Trapecii.pdb
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\bin\Debug\Method_Trapecii.exe.config
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\bin\Debug\Method_Trapecii.exe
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\bin\Debug\Method_Trapecii.pdb
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Method_Trapecii.csproj.AssemblyReference.cache
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Method_Trapecii.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Method_Trapecii.exe
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Method_Trapecii.pdb

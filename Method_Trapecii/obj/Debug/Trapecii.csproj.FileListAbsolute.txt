@@ -1,0 +1,7 @@
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\bin\Debug\Trapecii.exe.config
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\bin\Debug\Trapecii.exe
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\bin\Debug\Trapecii.pdb
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Trapecii.csproj.CoreCompileInputs.cache
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Trapecii.exe
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Trapecii.pdb
+C:\Users\1290743\Desktop\Метод Трапеций\Method_Trapecii\obj\Debug\Trapecii.csprojAssemblyReference.cache
